@@ -1,0 +1,34 @@
+<NotepadPlus>
+    <Project name="IS2WiX">
+        <File name="genAdminExeSeq.xsl" />
+        <File name="genAdminUISeq.xsl" />
+        <File name="genAdvtSeq.xsl" />
+        <File name="genBinary.xsl" />
+        <File name="genComFile.xsl" />
+        <File name="gencomFileOrg.xsl" />
+        <File name="genCustomAction.xsl" />
+        <File name="genDialog.xsl" />
+        <File name="genDir.xsl" />
+        <File name="genDirSearch.xsl" />
+        <File name="genEmbeddedChainner.xsl" />
+        <File name="genErr.xsl" />
+        <File name="genFeature.xsl" />
+        <File name="genFeatureRef.xsl" />
+        <File name="genFile.xsl" />
+        <File name="genFileDir.xsl" />
+        <File name="genInstallExeSeq.xsl" />
+        <File name="genInstallUISeq.xsl" />
+        <File name="genProgressText.xsl" />
+        <File name="genProp.xsl" />
+        <File name="genPublish.xsl" />
+        <File name="genRadioButton.xsl" />
+        <File name="genReg.xsl" />
+        <File name="genServiceInstall.xsl" />
+        <File name="genShortcut.xsl" />
+        <File name="genString.xsl" />
+        <File name="genSubscribe.xsl" />
+        <File name="genTextStyle.xsl" />
+        <File name="genUIText.xsl" />
+        <File name="genXMLFile.xsl" />
+    </Project>
+</NotepadPlus>
